@@ -1,8 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "fr.laquetedusavoir.app",
-    "sha256_cert_fingerprints": ["4C:9B:EA:96:4B:D5:C0:99:D1:AA:49:D6:BC:67:C6:CB:3E:CC:DA:5A:8F:F8:F2:2D:D9:93:30:E1:AC:7B:18:0F"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.laquetedusavoir.app",
+      "sha256_cert_fingerprints": [
+        "4C:9B:EA:96:4B:D5:C0:99:D1:AA:49:D6:BC:67:C6:CB:3E:CC:DA:5A:8F:F8:F2:2D:D9:93:30:E1:AC:7B:18:0F",
+        "D3:14:CE:FF:01:BA:38:D4:54:17:C4:98:DC:83:43:9D:0C:AB:32:01:85:10:77:8E:2A:75:2F:14:0D:C0:75:52"
+      ]
+    }
   }
-}]
+]
